@@ -1,0 +1,47 @@
+﻿Problem statement
+Generally rural students lack quality education. There are many reasons like :
+> Not having efficient faculty.
+> They are not yet digitally engaged.
+> They are still following traditional methods.
+> Poor internet connectivity which does not let them learn online and many.
+ OBJECTIVE
+Our idea is to make learning interactive and enjoyable through gamified learning to bridge the education gap between rural and urban areas by creating a lightweight, multilingual and an offline capable platform that motivates students to learn core subjects in an enjoyable way.
+KEY FEATURES
+> Our app is like an open source library. We provide textbooks, magazines, articles etc.
+> Levels and Rewards: Students progress through levels by completing quizzes and activities. Rewards like stars or badges encourage enjoyable and consistent learning.
+> Multi-language support: Lessons are available in regional languages like Telugu, Hindi, Tamil, Malayalam, Kannada and Bengali for better understanding.
+> Offline access: Works even without internet, ensuring usability in areas with poor connectivity.
+> Curriculum - Based content: Covers subjects like Maths, Science, Social and languages from classes 1 to 10.
+> Interactive quizzes and story telling: Uses story telling, puzzles, and visual learning to simplify complex topics.
+> Teacher dashboard: Allows teachers to track student progress and performance. 
+> We use simple language which helps student understand the concepts easily.
+> It occupies less storage to download our app.
+GAMIFIED LEARNING
+> Improves motivation.
+> Provides practical knowledge through visual teaching.
+> Promotes continuous learning.
+> Provides instant feedback.
+> Builds digital literacy.
+> Enhances retention.
+HOW AI IS IMPLEMENTED IN OUR PLATFORM
+> It automatically adjusts the difficulty level.
+> If a student finds the topic easy AI promotes difficult questions, if difficult it promotes easy to moderate questions.
+> It finds the mistakes and gives the correct solution which reduces frustration when students are stuck.
+> AI suggests relevant topics, exercises and quizzes on what topic student is studying.
+> It also predicts where they might struggle in future.
+      HOW QUANTUM TECHNOLOGY WORKS
+> It works on cubits instead of bits. So it works even more faster.
+> So multiple solutions can be analysed at a time.
+> Because of superposition and entangledment it performs many calculations at a time.
+> Can run complex activities without slowing down the app simultaneously.
+> High accuracy.
+    BENEFITS
+> Makes learning fun and engaging through game mechanisms.
+> Reduces dropout rates by keeping students motivated.
+> Provides access to quality education where teachers or schools are limited.
+> Encourages self-paced learning .
+> Promotes language inclusivity and comprehension in rural areas.
+
+
+
+
