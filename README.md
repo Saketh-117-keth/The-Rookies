@@ -1,4 +1,3 @@
 # The-Rookies
-Rookies here!
-<new>
+Rookies here!<br>
 Problem Domain : EduTech
