@@ -1,26 +1,23 @@
 ﻿Problem:
-I have seen then struggles of the people in rural area striving for quality education which is not available in the rural areas.
+I have seen the struggles of the people in rural areas striving for quality education which is not available in there.
 Language barriers make it even worse.
+Still in rural areas classes are taught in traditional way which is not effective.
+High drop rate and un equal education.
 There resources are too low.
 
 Why gamified learning ?
 Gamified learning : which involves applying game design elements to educational settings, offers multiple cognitive, emotional, and social benefits that significantly enhance student learning experiences and outcomes.
 1. Through gamified learning we can make learning interactive.
 2. Instead of learning through boring traditional  method. It makes learning enjoyable and fun.
-3. Promoted Critical thinking and problem solving skills.
+3. Promotes Critical thinking and problem solving skills.
 4. Creates a positive ,stress free learning.
 5. Enhances Cognitive and Emotional Development
 6. Reduces dropout rates by keeping students motivated.
-7. Promotes language inclusivity and comprehension in rural areas.
+7. Promotes language inclusivity.
 
 
 Why not Traditional learning ?
-Traditional learning is nothing but schooling , mugging .
-Where practical knowledge lacks.
+Traditional learning is nothing but schooling,mugging.
+In this type of teaching students will never attain the skills to face real time problems. 
+Here practical knowledge lacks.
 Hence the traditional learning is not that effective as gamified learning.
-
-
-
-
-
-
