@@ -16,3 +16,17 @@ Our Vision is to fill the gap between urbar education and rural education<br>
 ├── /icons/
 │   ├── icon-192.png
 │   └── icon-512.png
+<br>
+PWA
+/public
+│
+├── index.html
+├── manifest.json
+├── service-worker.js
+├── /icons
+│   ├── icon-192.png
+│   └── icon-512.png
+└── /js
+    ├── app.js         (main logic)
+    ├── offline-db.js  (Dexie.js for offline storage)
+    └── firebase-config.js
