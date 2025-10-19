@@ -8,17 +8,17 @@ Education is the foundation of national development, yet many rural areas in Ind
 
 Our Vision is to fill the gap between urbar education and rural education<br>
 
-/ruraled-pwa
-  index.html
-  /css/style.css
-  /js/app.js
-  /data/english/
-    math.json
-    science.json
-    english.json
-  /data/hindi/
-    math.json
-    science.json
-    english.json
-  manifest.json
-  service-worker.js
+/ruraled-pwa<br>
+  index.html<br>
+  /css/style.css<br>
+  /js/app.js<br>
+  /data/english/<br>
+    math.json<br>
+    science.json<br>
+    english.json<br>
+  /data/hindi/<br>
+    math.json<br>
+    science.json<br>
+    english.json<br>
+  manifest.json<br>
+  service-worker.js<br>
